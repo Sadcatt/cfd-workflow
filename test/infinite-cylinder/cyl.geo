@@ -1,21 +1,23 @@
 // D-shape domain with infinite 2d cylinder in the centre
 
-domainHeight = 2; //meters
-domainLength = 5; //meters
+domainHeight = 4; //meters
+domainLength = 10; //meters
 inletRadius = domainHeight/2; //meters
+
+mesh_number = 0.05;
 
 cylinderRadius = 0.1; //meters
 
 // Circle points 
-Point(1) = {0, 0, 0, 0};
-Point(2) = {-cylinderRadius/2, 0, 0, 0};
-Point(3) = {cylinderRadius/2, 0, 0, 0};
+Point(1) = {0, 0, 0, mesh_number};
+Point(2) = {-cylinderRadius/2, 0, 0, mesh_number};
+Point(3) = {cylinderRadius/2, 0, 0, mesh_number};
 
 // Domain border points
-Point(4) = {-domainLength/2, domainHeight/2, 0, 0}; //top left
-Point(5) = {domainLength/2, domainHeight/2, 0, 0}; //top right
-Point(6) = {domainLength/2, -domainHeight/2, 0, 0}; //bottom right
-Point(7) = {-domainLength/2, -domainHeight/2, 0, 0}; //bottom left
+Point(4) = {-domainLength/2, domainHeight/2, 0, mesh_number}; //top left
+Point(5) = {domainLength/2, domainHeight/2, 0, mesh_number}; //top right
+Point(6) = {domainLength/2, -domainHeight/2, 0, mesh_number}; //bottom right
+Point(7) = {-domainLength/2, -domainHeight/2, 0, mesh_number}; //bottom left
 
 
 // Circle arcs
@@ -37,7 +39,7 @@ Plane Surface(1) = {1, 2}; //either order works for this case, however tutorial 
 
 // Transfinite Curve at cylinder test
 Transfinite Curve {2, 1} = 200 Using Progression 1;
-
+//Transfinite Surface {1};
 // Physical Grouping (Named selections)
 //Physical Line("Inlet") = {6};
 //Physical Line("Outlet") = {4};
