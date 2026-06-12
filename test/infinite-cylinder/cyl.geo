@@ -4,7 +4,7 @@ domainHeight = 4; //meters
 domainLength = 10; //meters
 inletRadius = domainHeight/2; //meters
 
-mesh_number = 0.05;
+mesh_number = 0.5;
 
 cylinderRadius = 0.1; //meters
 
