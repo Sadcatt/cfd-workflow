@@ -1,12 +1,12 @@
 //// Variables Area
-rocketLengthTot = 1;    //m
-bodyRadius = 0.1;       //m
-boattailRadius = 0.06;  //m
+//rocketLengthTot = 1;    //m
+bodyRadius = 0.03;       //m
+boattailRadius = 0.014;  //m
 noseLength = 0.3;       //m
-bodyLength = 0.6;       //m
-boattailLength = 0.1;   //m
+bodyLength = 1.0;       //m
+boattailLength = 0.4;   //m
 
-domainRadius = 10;
+domainRadius = 30;
 domainDownstream = 20;
 
 boundaryMeshSize = 0.05;
@@ -72,7 +72,7 @@ boattailElements    = 8;
 exhaustwakeElements = 8;
 downstreamElements  = 20;
 dinletElements      = 10;
-verticalElements    = 120;
+verticalElements    = 60;
 
 //settings
 Transfinite Line {1,  11}                   = noseconeElements      Using Progression 1;
@@ -82,7 +82,7 @@ Transfinite Line {4,  6}                    = exhaustwakeElements   Using Progre
 
 Transfinite Line {5,  18, -8}               = downstreamElements    Using Progression 1.5;
 Transfinite Line {12}                       = dinletElements        Using Progression 1;
-Transfinite Line {-13, 14, 15, 16, 17, 7}   = verticalElements      Using Progression 1.1;
+Transfinite Line {-13, 14, 15, 16, 17, 7}   = verticalElements      Using Progression 1.3;
 
 Transfinite Surface {1};
 Transfinite Surface {2};
