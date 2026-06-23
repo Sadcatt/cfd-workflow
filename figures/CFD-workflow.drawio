@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0">
   <diagram name="Page-1" id="OoyNvY4U4fXFGpV3d4CM">
-    <mxGraphModel dx="2306" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="921" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gmsh Mesh Procedure to produce independent mesh" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="3BMXoMhwJ3VsBMcr4WND-7" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3BMXoMhwJ3VsBMcr4WND-4">
+        <mxCell id="3BMXoMhwJ3VsBMcr4WND-7" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="3BMXoMhwJ3VsBMcr4WND-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="150" y="500" />
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3BMXoMhwJ3VsBMcr4WND-21" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="3BMXoMhwJ3VsBMcr4WND-5">
+        <mxCell id="3BMXoMhwJ3VsBMcr4WND-21" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;" target="3BMXoMhwJ3VsBMcr4WND-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="150" y="500" />
@@ -44,7 +44,7 @@
             <mxPoint x="80" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3BMXoMhwJ3VsBMcr4WND-24" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="3BMXoMhwJ3VsBMcr4WND-6">
+        <mxCell id="3BMXoMhwJ3VsBMcr4WND-24" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;" target="3BMXoMhwJ3VsBMcr4WND-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="150" y="500" />
@@ -59,10 +59,10 @@
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=#000000;" value="Input file in custom format" vertex="1">
           <mxGeometry height="60" width="120" x="-10" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="3BMXoMhwJ3VsBMcr4WND-10" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3BMXoMhwJ3VsBMcr4WND-8" value="">
+        <mxCell id="3BMXoMhwJ3VsBMcr4WND-10" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="3BMXoMhwJ3VsBMcr4WND-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3BMXoMhwJ3VsBMcr4WND-12" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3BMXoMhwJ3VsBMcr4WND-11" value="">
+        <mxCell id="3BMXoMhwJ3VsBMcr4WND-12" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="3BMXoMhwJ3VsBMcr4WND-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Geometry Definition" vertex="1">
@@ -82,7 +82,7 @@
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-30" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3BMXoMhwJ3VsBMcr4WND-29" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3BMXoMhwJ3VsBMcr4WND-37" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3BMXoMhwJ3VsBMcr4WND-22">
+        <mxCell id="3BMXoMhwJ3VsBMcr4WND-37" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="3BMXoMhwJ3VsBMcr4WND-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="745" />
@@ -98,13 +98,13 @@
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sweep of conditions / DOE" vertex="1">
           <mxGeometry height="30" width="60" x="180" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="3BMXoMhwJ3VsBMcr4WND-14" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3BMXoMhwJ3VsBMcr4WND-13" value="">
+        <mxCell id="3BMXoMhwJ3VsBMcr4WND-14" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="3BMXoMhwJ3VsBMcr4WND-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-8" parent="1" style="whiteSpace=wrap;html=1;" value="Create Geometry for vehicle in Gmsh" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="3BMXoMhwJ3VsBMcr4WND-15" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3BMXoMhwJ3VsBMcr4WND-13">
+        <mxCell id="3BMXoMhwJ3VsBMcr4WND-15" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="3BMXoMhwJ3VsBMcr4WND-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-11" parent="1" style="whiteSpace=wrap;html=1;" value="Create Boundary for vehicle in Gmsh" vertex="1">
@@ -116,7 +116,7 @@
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-13" parent="1" style="whiteSpace=wrap;html=1;" value="Use Boolean Operation to create computational domain" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="245" as="geometry" />
         </mxCell>
-        <mxCell id="3BMXoMhwJ3VsBMcr4WND-20" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3BMXoMhwJ3VsBMcr4WND-1">
+        <mxCell id="3BMXoMhwJ3VsBMcr4WND-20" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="3BMXoMhwJ3VsBMcr4WND-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Export mesh in .su2 format" vertex="1">
@@ -128,10 +128,10 @@
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-22" parent="1" style="whiteSpace=wrap;html=1;" value="For each condition, in each sub-directory, construct SU2 Config file from input simulation settings &amp;amp; conditions" vertex="1">
           <mxGeometry height="60" width="180" x="450" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="3BMXoMhwJ3VsBMcr4WND-32" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3BMXoMhwJ3VsBMcr4WND-31" value="">
+        <mxCell id="3BMXoMhwJ3VsBMcr4WND-32" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="3BMXoMhwJ3VsBMcr4WND-31" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3BMXoMhwJ3VsBMcr4WND-35" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3BMXoMhwJ3VsBMcr4WND-34" value="">
+        <mxCell id="3BMXoMhwJ3VsBMcr4WND-35" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="3BMXoMhwJ3VsBMcr4WND-34" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-29" parent="1" style="whiteSpace=wrap;html=1;" value="Create directory in specified location" vertex="1">
@@ -156,7 +156,7 @@
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-34" parent="1" style="whiteSpace=wrap;html=1;" value="Create storage file for all retained simulation outputs to be displayed at the end" vertex="1">
           <mxGeometry height="60" width="160" x="460" y="750" as="geometry" />
         </mxCell>
-        <mxCell id="3BMXoMhwJ3VsBMcr4WND-44" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3BMXoMhwJ3VsBMcr4WND-1">
+        <mxCell id="3BMXoMhwJ3VsBMcr4WND-44" edge="1" parent="1" source="3BMXoMhwJ3VsBMcr4WND-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="3BMXoMhwJ3VsBMcr4WND-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3BMXoMhwJ3VsBMcr4WND-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Configuration file for each condition case" vertex="1">
